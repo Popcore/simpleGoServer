@@ -1,0 +1,8 @@
+{
+	"ImportPath": "github.com/hello_world",
+	"GoVersion": "go1.5.1",
+	"Packages": [
+		"./..."
+	],
+	"Deps": []
+}
